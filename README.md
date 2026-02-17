@@ -16,7 +16,7 @@ I architect and lead teams that transform infrastructure operations through auto
 AI-powered job automation using OpenAI embeddings to score 500+ roles and deliver daily Telegram digests—saving 40+ hours/month on manual searching.
 
 ### [DevOps AI Platform](https://github.com/litansh/devops-ai-platform)
-Autonomous infrastructure management powered by 12 AI agents with human-in-the-loop safety via PR-based approval workflows.
+Autonomous infrastructure management powered by AI agents with human-in-the-loop safety via PR-based approval workflows.
 
 ### [AWS Cleanup Tool](https://github.com/litansh/aws-cleanup)
 Automated resource optimization detecting unattached EBS volumes, unused ECR repos, idle NAT gateways, and recommending EC2 right-sizing.
@@ -30,7 +30,8 @@ Automated resource optimization detecting unattached EBS volumes, unused ECR rep
 
 ## 📫 Let's Connect
 
-**Email:** litansh@gmail.com
 **LinkedIn:** [linkedin.com/in/litan-shamir-devops](https://linkedin.com/in/litan-shamir-devops)
 
 ---
+
+💼 **Open to:** Director/VP-level roles in Platform Engineering, SRE, DevOps, and FinOps
