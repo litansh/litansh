@@ -1,6 +1,6 @@
 # Hi, I'm Litan 👋
 
-**DevOps & Platform Engineering Leader** | Building reliable, cost-efficient infrastructure at scale
+**Infra, DevOps, Platform Engineering Leader** | Building reliable, cost-efficient infrastructure at scale
 
 I architect and lead teams that transform infrastructure operations through automation, observability, and FinOps discipline.
 
@@ -31,8 +31,6 @@ Automated resource optimization detecting unattached EBS volumes, unused ECR rep
 ## 📫 Let's Connect
 
 **Email:** litansh@gmail.com
-**LinkedIn:** [linkedin.com/in/litanshamir](https://linkedin.com/in/litanshamir)
+**LinkedIn:** [linkedin.com/in/litan-shamir-devops](https://linkedin.com/in/litan-shamir-devops)
 
 ---
-
-💼 Open to senior IC and leadership roles in DevOps, SRE, Platform Engineering, and FinOps
