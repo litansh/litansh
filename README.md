@@ -15,9 +15,6 @@ I architect and lead teams that transform infrastructure operations through auto
 ### [DevOps AI Platform](https://github.com/litansh/devops-ai-platform)
 Autonomous infrastructure management powered by AI agents with human-in-the-loop safety via PR-based approval workflows. 8 MCP agents orchestrate predictive scaling, cost optimization, and anomaly detection.
 
-### [ZeusAI](https://github.com/litansh/zeusai)
-AI-powered DevOps CoPilot with visual infrastructure design and zero-YAML GitOps automation. 8 specialized microservices unify observability, deployments, cost monitoring, and policy enforcement in one platform.
-
 ### [TrendMaster-AI](https://github.com/litansh/TrendMaster-AI)
 Prophet-based forecasting and anomaly detection platform with adaptive Istio rate limiting. Predicts infrastructure trends, detects anomalies before incidents, and automates service mesh tuning based on traffic patterns.
 
