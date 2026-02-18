@@ -12,14 +12,23 @@ I architect and lead teams that transform infrastructure operations through auto
 
 ## 🚀 Featured Projects
 
+### [DevOps AI Platform](https://github.com/litansh/devops-ai-platform)
+Autonomous infrastructure management powered by AI agents with human-in-the-loop safety via PR-based approval workflows. 8 MCP agents orchestrate predictive scaling, cost optimization, and anomaly detection.
+
+### [ZeusAI](https://github.com/litansh/zeusai)
+AI-powered DevOps CoPilot with visual infrastructure design and zero-YAML GitOps automation. 8 specialized microservices unify observability, deployments, cost monitoring, and policy enforcement in one platform.
+
+### [TrendMaster-AI](https://github.com/litansh/TrendMaster-AI)
+Prophet-based forecasting and anomaly detection platform with adaptive Istio rate limiting. Predicts infrastructure trends, detects anomalies before incidents, and automates service mesh tuning based on traffic patterns.
+
 ### [JobSearch Pipeline](https://github.com/litansh/jobsearch-pipeline)
 AI-powered job automation using OpenAI embeddings to score 500+ roles and deliver daily Telegram digests—saving 40+ hours/month on manual searching.
 
-### [DevOps AI Platform](https://github.com/litansh/devops-ai-platform)
-Autonomous infrastructure management powered by AI agents with human-in-the-loop safety via PR-based approval workflows.
+### [MentorOS](https://github.com/litansh/mentoros)
+AI-powered goal-to-mastery learning platform with multi-agent orchestration. Structured programs with approval gates, execution coaching, and resource verification for <$50/user/month operating cost.
 
 ### [AWS Cleanup Tool](https://github.com/litansh/aws-cleanup)
-Automated resource optimization detecting unattached EBS volumes, unused ECR repos, idle NAT gateways, and recommending EC2 right-sizing.
+Automated resource optimization detecting unattached EBS volumes, unused ECR repos, idle NAT gateways, and recommending EC2 right-sizing for 30% cost reduction.
 
 ## 🛠️ How I Work
 
@@ -34,4 +43,4 @@ Automated resource optimization detecting unattached EBS volumes, unused ECR rep
 
 ---
 
-💼 **Open to:** Director/VP-level roles in Platform Engineering, SRE, DevOps, and FinOps
+💼 **Open to:** Director/VP-level roles in Infra/Platform Engineering, SRE, DevOps, and FinOps
