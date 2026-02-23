@@ -8,9 +8,6 @@ I architect and lead teams that transform infrastructure operations through auto
 
 ### 🏆 Core Skills
 
-![Teams Led](https://img.shields.io/badge/Group_Led-14+_Engineers-orange?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Uptime-100%25_SLA-success?style=for-the-badge)
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,6 +36,8 @@ I architect and lead teams that transform infrastructure operations through auto
 
 ### 🎯 Achievements
 
+![Group Led](https://img.shields.io/badge/Group_Led-14+_Engineers-orange?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/Uptime-100%25_SLA-success?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Production_Projects-5+_Deployed-success?style=for-the-badge)
 ![Cost Optimization](https://img.shields.io/badge/Cost_Savings-30%25+_Infrastructure-green?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Time_Saved-40+_Hours/Month-blue?style=for-the-badge)
