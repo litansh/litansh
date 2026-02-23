@@ -38,9 +38,11 @@ I architect and lead teams that transform infrastructure operations through auto
 
 ![Group Led](https://img.shields.io/badge/Group_Led-14+_Engineers-orange?style=for-the-badge)
 ![Uptime](https://img.shields.io/badge/Uptime-100%25_SLA-success?style=for-the-badge)
+
 ![Projects](https://img.shields.io/badge/Production_Projects-5+_Deployed-success?style=for-the-badge)
 ![Cost Optimization](https://img.shields.io/badge/Cost_Savings-30%25+_Infrastructure-green?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Time_Saved-40+_Hours/Month-blue?style=for-the-badge)
+
 ![Code](https://img.shields.io/badge/Portfolio_Code-37K+_Lines-orange?style=for-the-badge)
 
 ## 💡 Impact Areas
