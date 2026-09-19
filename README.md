@@ -1,84 +1,74 @@
 # Hi, I'm Litan 👋
 
-**Infra, DevOps, Platform Engineering Leader** | Building reliable, cost-efficient infrastructure at scale
+**Infrastructure & Platform Engineering Leader** — I run the platform behind a high-traffic AdTech marketplace, and I judge infrastructure by what it does for revenue and margin, not just uptime and cost.
 
-I architect and lead teams that transform infrastructure operations through automation, observability, and FinOps discipline.
+I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build: AI agents that operate infrastructure, forecasting systems, and a small ad exchange I run end to end to learn the business from the inside.
 
----
-
-### 🏆 Core Skills
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions_(last_12_months)-1,100+-2ea44f?style=flat-square)
+![Code](https://img.shields.io/badge/Public_code-70K+_lines-orange?style=flat-square)
+![Repos](https://img.shields.io/badge/Repositories-48-blue?style=flat-square)
+![Team](https://img.shields.io/badge/Group_led-14+_engineers-8957e5?style=flat-square)
 
 ---
 
-### 🎯 Achievements
+## 🔭 Building now
 
-![Group Led](https://img.shields.io/badge/Group_Led-14+_Engineers-orange?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Uptime-100%25_SLA-success?style=for-the-badge)
+**[AdTech Lab](https://github.com/litansh/adtech-lab)** — a small but real ad ecosystem, live at [xoxoxo.live](https://xoxoxo.live). A Go ad server on Lambda (ARM64) behind CloudFront and API Gateway, with DynamoDB, an S3 event pipeline and everything in Terraform. Eligibility → priority → expected-eCPM selection, per-route throttling, `ads.txt`, a privacy-compliant collector. ~18K lines of Go under a hard $100/month budget — because terms like *fill rate*, *bid floor* and *take rate* only become instinct once you've operated them.
 
-![Projects](https://img.shields.io/badge/Production_Projects-5+_Deployed-success?style=for-the-badge)
-![Cost Optimization](https://img.shields.io/badge/Cost_Savings-30%25+_Infrastructure-green?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Time_Saved-40+_Hours/Month-blue?style=for-the-badge)
+**[Family Finance Hub](https://github.com/litansh/family-finance-hub)** — FinOps for a household. Pulls the family cashflow from RiseUp through its official read-only MCP server and serves month status, alerts, recurring-charge detection and trends in a mobile-first UI behind Cloudflare Access. Sync and API Lambdas, one JSON per month in S3, Terraform for AWS and Cloudflare, and a tested pure-logic core. The code is public; a deployment is not — nothing identifying lives in the repo.
 
-![Code](https://img.shields.io/badge/Portfolio_Code-37K+_Lines-orange?style=for-the-badge)
+## 🚀 Featured projects
 
-## 💡 Impact Areas
+| Project | What it does | Stack |
+|---|---|---|
+| **[TrendMaster-AI](https://github.com/litansh/TrendMaster-AI)** | Prophet-based forecasting and anomaly detection that tunes Istio rate limits from real traffic patterns — catches anomalies before they become incidents. | Python · Prophet · Istio · Prometheus |
+| **[DevOps AI Platform](https://github.com/litansh/devops-ai-platform)** | 8 MCP agents for predictive scaling, cost optimization and anomaly detection. Every change ships as a pull request, so a human approves before anything touches production. | Python · FastAPI · MCP · Kubernetes |
+| **[JobSearch Pipeline](https://github.com/litansh/jobsearch-pipeline)** | Scores 500+ roles with embeddings and delivers a ranked daily Telegram digest — 40+ hours/month of manual searching, gone. | Python · OpenAI · Telegram |
 
-- **Reliability & Scale:** Platform engineering for high-availability systems with automated incident response
-- **Cost Optimization:** FinOps-driven cloud waste detection and right-sizing (targeting 20-40% reductions)
-- **Automation-First:** AI-powered infrastructure management replacing manual toil with intelligent agents
+## 💡 What I focus on
 
-## 🚀 Featured Projects
+- **Reliability at scale** — SLO-driven operations, observability first, automated incident response
+- **FinOps as a margin lever** — cost visibility, tagging and right-sizing; 30%+ infrastructure savings delivered
+- **AI-operated infrastructure** — agents that replace manual toil, with humans in the loop where it matters
+- **Platform as a product** — GitOps-native, everything as code, paved roads over tickets
 
-### [DevOps AI Platform](https://github.com/litansh/devops-ai-platform)
-Autonomous infrastructure management powered by AI agents with human-in-the-loop safety via PR-based approval workflows. 8 MCP agents orchestrate predictive scaling, cost optimization, and anomaly detection.
+## 🧰 Toolbox
 
-### [TrendMaster-AI](https://github.com/litansh/TrendMaster-AI)
-Prophet-based forecasting and anomaly detection platform with adaptive Istio rate limiting. Predicts infrastructure trends, detects anomalies before incidents, and automates service mesh tuning based on traffic patterns.
+**Cloud & platform**
 
-### [JobSearch Pipeline](https://github.com/litansh/jobsearch-pipeline)
-AI-powered job automation using OpenAI embeddings to score 500+ roles and deliver daily Telegram digests—saving 40+ hours/month on manual searching.
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### [MentorOS](https://github.com/litansh/mentoros)
-AI-powered goal-to-mastery learning platform with multi-agent orchestration. Structured programs with approval gates, execution coaching, and resource verification for <$50/user/month operating cost.
+**Delivery & observability**
 
-### [AWS Cleanup Tool](https://github.com/litansh/aws-cleanup)
-Automated resource optimization detecting unattached EBS volumes, unused ECR repos, idle NAT gateways, and recommending EC2 right-sizing for 30% cost reduction.
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-## 🛠️ How I Work
+**Languages & data**
 
-- **GitOps-Native:** Infrastructure as code, PR-based reviews, automated deployments
-- **Reliability Engineering:** Observability-first (Prometheus, Grafana), SLO-driven operations
-- **FinOps Mindset:** Cost visibility, resource tagging, usage-based optimization
-- **Pragmatic Automation:** Focus on high-value automation, avoid over-engineering
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_/_Valkey-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-## 📫 Let's Connect
+**AI**
 
-**LinkedIn:** [linkedin.com/in/litan-shamir-devops](https://linkedin.com/in/litan-shamir-devops)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 ---
 
-💼 **Open to:** Director/VP-level roles in Infra/Platform Engineering, SRE, DevOps, and FinOps
+📫 **[linkedin.com/in/litan-shamir-devops](https://linkedin.com/in/litan-shamir-devops)**  ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
