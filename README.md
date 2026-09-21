@@ -71,4 +71,4 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 
 ---
 
-📫 **[linkedin.com/in/litan-shamir-devops](https://linkedin.com/in/litan-shamir-devops)**  ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
+📫 **[linkedin.com/in/litan-shamir](https://linkedin.com/in/litan-shamir)**  ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
