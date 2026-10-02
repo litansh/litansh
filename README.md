@@ -1,5 +1,7 @@
 # Hi, I'm Litan 👋
 
+🌐 **[litan-shamir.com](https://litan-shamir.com)** — who I am, how I lead, and selected outcomes.
+
 **Infrastructure & Platform Engineering Leader** — I run the platform behind a high-traffic AdTech marketplace, and I judge infrastructure by what it does for revenue and margin, not just uptime and cost.
 
 I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build: AI agents that operate infrastructure, forecasting systems, and a small ad exchange I run end to end to learn the business from the inside.
@@ -72,5 +74,5 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 
 ---
 
-📫 **[linkedin.com/in/litan-shamir](https://linkedin.com/in/litan-shamir)** **https://litan-shamir.com** ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
+🌐 **[litan-shamir.com](https://litan-shamir.com)**  ·  📫 **[linkedin.com/in/litan-shamir](https://linkedin.com/in/litan-shamir)** **https://litan-shamir.com** ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
 
