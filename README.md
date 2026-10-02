@@ -9,6 +9,7 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 ![Repos](https://img.shields.io/badge/Repositories-48-blue?style=flat-square)
 ![Team](https://img.shields.io/badge/Group_led-14+_engineers-8957e5?style=flat-square)
 
+**https://litan-shamir.com**
 ---
 
 ## 🔭 Building now
@@ -71,5 +72,5 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 
 ---
 
-📫 **[linkedin.com/in/litan-shamir](https://linkedin.com/in/litan-shamir)**  ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
-**https://litan-shamir.com**
+📫 **[linkedin.com/in/litan-shamir](https://linkedin.com/in/litan-shamir)** **https://litan-shamir.com** ·  💼 Open to Director / VP-level roles in Infrastructure, Platform Engineering, SRE and FinOps
+
