@@ -35,6 +35,10 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 - **AI-operated infrastructure** — agents that replace manual toil, with humans in the loop where it matters
 - **Platform as a product** — GitOps-native, everything as code, paved roads over tickets
 
+## 🤖 Agentic engineering, in practice
+
+I treat AI the way I treat any production system: it has an owner, it is measured, and it does not ship until it is verified. The internal tooling I build runs on that rule: a FinOps intelligence hub that reconciles cloud spend against business metrics, incident and RCA agents that read observability and ticket data, and Slack-native assistants for engineering leaders, all built on a shared context layer with caching in front of the models rather than a bot per use case. The sequencing is always the same: **attribution** first (who owns what and what it costs, which needs no AI), then **retrieval** (can we find what we already know), then **reasoning** (can we explain what happened). Every number an agent reports must reconcile against an independently known source, or it does not ship. Company-wide agentic coding with Claude Code and Codex, behind a governed LLM gateway, was rolled out the same way: ownership, guardrails, measured outcomes.
+
 ## 🧰 Toolbox
 
 **Cloud & platform**
@@ -68,9 +72,16 @@ I lead a 14+ engineer group across Infra, DevOps and Platform. Off hours I build
 
 **AI**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM_gateway-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_·_FastMCP-000000?style=flat-square)
+![Embeddings / RAG](https://img.shields.io/badge/Embeddings_·_RAG-5A67D8?style=flat-square)
+![Prophet](https://img.shields.io/badge/Prophet_forecasting-3B5998?style=flat-square)
+![Slack bots](https://img.shields.io/badge/Slack_agents-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
